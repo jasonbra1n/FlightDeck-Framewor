@@ -17,7 +17,7 @@ This file is for temporary notes, plans, and brainstorming for the Denon DN-1000
 *   **Playlist Management**: Allow loading a folder of tracks rather than single files.
 *   **Offline Capability**: Remove CDN dependencies (e.g., jsmediatags) and serve all assets locally.
 *   **Modular Audio Architecture**: Standardize the audio engine to support future emulators and custom consoles within a unified "DJ System".
-*   **Branding**: "FlightDeck Framework" - AVDJ ACADEMY (Instrument panel concept).
+*   **Branding**: FlightDeck Framework | Brain AV | AVDJ.ca | JasonBrain.com.
 
 
 ## 🏗️ Architecture Plan

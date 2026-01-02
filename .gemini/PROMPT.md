@@ -3,9 +3,9 @@ PERSONA.md
 </PERSONA_FILE>
 
 <PROJECT_INFO>
-**Name**: Denon DN-1000F Web Emulator
-**Description**: A modern web-based emulator for the classic Denon DN-1000F CD player, bringing back its iconic functionality to your browser using Web Audio API and JavaScript Media Tags.
-**Repository**: https://github.com/jasonbra1n/Denon-DN-1000F-Web-Emulator
+**Name**: FlightDeck Framework
+**Description**: A modular platform for building web-based DJ consoles and audio instrument panels. Powered by Brain AV and AVDJ.ca.
+**Repository**: https://github.com/jasonbra1n/FlightDeck-Framework
 </PROJECT_INFO>
 
 <TECH_STACK>

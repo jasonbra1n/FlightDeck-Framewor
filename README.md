@@ -6,7 +6,12 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/jasonbra1n/Denon-DN-1000F-Web-Emulator)
 
 
-**FlightDeck Framework** (formerly DN-1000F Web Emulator) is a modular platform for building web-based DJ consoles and audio instrument panels. Developed by **AVDJ ACADEMY**.
+**FlightDeck Framework** is a modular platform for building web-based DJ consoles and audio instrument panels.
+
+*   **Organization**: [Brain AV](https://brainav.ca)
+*   **Platform**: [AVDJ.ca](https://avdj.ca)
+*   **Academy**: [flightdeck.avdj.ca](https://flightdeck.avdj.ca/)
+*   **Developer**: [JasonBrain.com](https://jasonbrain.com)
 
 
 ## 📌 Overview

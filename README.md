@@ -1,9 +1,9 @@
 # ✈️ FlightDeck Framework
 
 
-[![MIT License](https://img.shields.io/github/license/jasonbra1n/Denon-DN-1000F-Web-Emulator)](LICENSE)
-![GitHub repo size](https://img.shields.io/github/repo-size/jasonbra1n/Denon-DN-1000F-Web-Emulator)
-![GitHub last commit](https://img.shields.io/github/last-commit/jasonbra1n/Denon-DN-1000F-Web-Emulator)
+[![MIT License](https://img.shields.io/github/license/BrainAV/FlightDeck-Framework)](LICENSE)
+![GitHub repo size](https://img.shields.io/github/repo-size/BrainAV/FlightDeck-Framework)
+![GitHub last commit](https://img.shields.io/github/last-commit/BrainAV/FlightDeck-Framework)
 
 
 **FlightDeck Framework** is a modular platform for building web-based DJ consoles and audio instrument panels.
@@ -18,13 +18,18 @@
 
 This project serves as the foundation for the **FlightDeck** ecosystem, treating DJ consoles like pilot instrument panels.
 
-Currently featuring the **Denon DN-1000F** emulator:
+Currently featuring:
+
+### 🎛️ Denon DN-1000F Emulator
 - Load and play multiple audio files
 - Navigate tracks (previous/next)
 - Set cues and control playback precisely
 - Adjust pitch using a real-time slider
 - Display elapsed or remaining time
 - Show album art from embedded ID3 tags
+
+### 🎧 Prototypes
+- **Dual Deck Console**: A working prototype (`consoles/dj-console/`) demonstrating dual-deck architecture.
 
 Perfect for **musicians, DJs, and audiophiles** who want to use the features of this legendary player in a modern web environment.
 

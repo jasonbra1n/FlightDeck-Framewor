@@ -10,6 +10,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - **Infrastructure**: Added `.github` folder with `ROADMAP.md` and `CONTRIBUTING.md`.
 - **AI Workflow**: Initialized `.gemini` directory with persona and prompt context.
-- **Core**: Initial project structure with `index.html` and `README.md`.
-- **Dependencies**: Added `jsmediatags` library for ID3 tag parsing.
-- **Features**: Implemented full audio engine, pitch control, cue logic, and display in `index.html`.
+
+## [1.0.0] - 2025-11-11
+
+### Added
+- **Core**: Initial public release of the Denon DN-1000F Web Emulator.
+- **Features**: Supports multiple audio formats (MP3, WAV, FLAC), cue point functionality, and pitch adjustment.
+- **UI**: Album art display from ID3 tags.
